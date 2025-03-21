@@ -10,7 +10,6 @@ Welcome to the AI Healthcare Assistance Chatbot repository! This project aims to
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
@@ -31,7 +30,7 @@ To set up and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/MGJillaniMughal/AI-Healthcare-Assitance-Chatbot.git
+    git clone https://github.com/starme208/AI-Healthcare-Assitance-Chatbot.git
     cd AI-Healthcare-Assitance-Chatbot
     ```
 
@@ -105,15 +104,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any inquiries or suggestions, please reach out:
-
-- **LinkedIn**: [Muhammad Ghulam Jillani](https://pk.linkedin.com/in/jillanisofttech)
-- **Kaggle**: [Jillani SoftTech](https://www.kaggle.com/jillanisofttech)
-- **Medium**: [Jillani SoftTech](https://jillanisofttech.medium.com/)
-- **GitHub**: [MGJillaniMughal](https://github.com/MGJillaniMughal)
-- **Portfolio**: [Muhammad Ghulam Jillani](https://mgjillanimughal.github.io/)
 
 ---
 
